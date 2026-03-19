@@ -71,6 +71,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** PANGA THANUJA
 **Course:** Introduction to Cloud Computing  
 
